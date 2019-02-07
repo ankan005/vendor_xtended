@@ -71,4 +71,6 @@
     <color name="inspector_section_title">@*android:color/omni_text1</color>
     <color name="inspector_section_divider">@*android:color/omni_color1</color>
     <color name="inspector_header_title">@*android:color/omni_text1</color>
+
+    <color name="status_bar_color">@*android:color/omni_color4</color>
 </resources>
